@@ -1,0 +1,25 @@
+body {
+    background-image: url(sigmabilde.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    align-self: center;
+}
+/* background image er får bilde no reapet er får at bilde skal visses bare engang background size cover er sånt at det skal ta hele skjermen fixed er fåt at det skal være fixed */
+p {
+    background-color: rgba(255, 255, 255, 0.758);
+    margin-left: 50%;
+    margin-right: 20%;
+    text-align: center;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+h1 {
+    background-color: rgba(255, 255, 255, 0.692);
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    border-radius: 10px;
+}
+/* det her er backgrunn på teksten farge, få teksten til å være litt på høyre ved margin få teksten i centre. padding er mer sirkel kanter */
